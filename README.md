@@ -16,5 +16,5 @@ This score should then compared agains the BGG weight score in order to discuss 
 
 ## Files in the repository
 
-
-
+The dataset is created using data from two different sites and this is done with the following 3 notebooks:
+- [a relative link](OrderOfGamersRulebooksScraper.ipynb)
