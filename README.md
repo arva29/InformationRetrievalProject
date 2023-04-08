@@ -4,7 +4,7 @@ Project done for the information retrieval course of the master's degree in comp
 
 ## Topic chosen - Complexity in boardgames (P4)
 
-> *Playing boardgames is a wonderfull hobby that is growing in popularity in the last years. Since 2000, the website BoardGameGeek (BGG) 
+> <p align="justify"> *Playing boardgames is a wonderfull hobby that is growing in popularity in the last years. Since 2000, the website BoardGameGeek (BGG) 
 provides a complete database about boardgames and users playing boardgames around the world. Users provide also stats and ratings that 
 evaluate the popularity of each game according to several criteria, including the game complexity (called weight) (see for example the 
 stats for the game Gloomhaven).  
@@ -12,7 +12,7 @@ stats for the game Gloomhaven).
 See for example the games from GMT games that usually provide a pdf rulebook downloadable for each game.  
 > Goal of the project is to automatically analyze the rulebooks in order to define appropriate metrics and strategies for automatically evaluate 
 the complexity score of the game on the basis of the rules.  
-> This score should then compared agains the BGG weight score in order to discuss similarity and differences between the two metrics.*
+> This score should then compared agains the BGG weight score in order to discuss similarity and differences between the two metrics.* </p>
 
 ## Files in the repository
 
