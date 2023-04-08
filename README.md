@@ -22,5 +22,6 @@ The dataset is created using data from two different sites and this is done with
 - [RulebooksReader](RulebooksReader.ipynb) - Read the pdf downloaded with the previous notebook and extract from each of them name, year, publisher and rules of the game. It then produce a first csv file with the information extracted above.
 - [RulesToBGGLinker](RulesToBGGLinker.ipynb) - Using the [BGG API](https://boardgamegeek.com/wiki/page/BGG_XML_API#) it extracts the weight (complexity score) of each game in the csv produced by the previous notebook. It then produce a csv that will be the actual dataset of the project.
 
-In the repository there are two version of the dataset:
-- 
+In the repository there are two version of the dataset, one is the full dataset extracted by running the notebooks above (about 350 records) while the other, the FILTERED version, is a cleaner version of the dateset where all the records with 0 weight or with a weight voted by less than 50 user have been cut off.
+
+--- https://github.com/LibreOffice/dictionaries
